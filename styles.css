@@ -95,7 +95,7 @@ section {
 /* Header styles */
 header {
   background-color: var(--theme-ui-colors-primary, #ec3750);
-  color: white;
+  color: red;
   /* Set text to white */
   padding: 64px 0;
   text-align: center;
@@ -284,7 +284,7 @@ header h1 {
 /* Footer styles */
 footer {
   background-color: var(--theme-ui-colors-primary, #ec3750);
-  color: white;
+  color: black;
   /* Set text to white */
   padding: 32px 0;
   text-align: center;
