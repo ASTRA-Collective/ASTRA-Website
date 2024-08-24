@@ -73,7 +73,7 @@ a:focus {
   transition: transform 0.3s ease;
   /* Smooth transition for tilt effect */
   border-radius: 20px; /* Rounded corners */
-  background-color: rgba(255, 255, 255, 0.9); /* Light faded background */
+  background-color: #999696; /* Light faded background */
 }
 
 .container:hover {
