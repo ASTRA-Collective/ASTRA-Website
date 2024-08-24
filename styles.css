@@ -9,7 +9,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--theme-ui-colors-background, #999696);
+  background-color: var(--theme-ui-colors-background, #000000);
   margin: 0;
 }
 
@@ -73,7 +73,7 @@ a:focus {
   transition: transform 0.3s ease;
   /* Smooth transition for tilt effect */
   border-radius: 20px; /* Rounded corners */
-  background-color: #999696; /* Light faded background */
+  background-color: #FFFFFF; /* Light faded background */
 }
 
 .container:hover {
